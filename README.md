@@ -1,4 +1,5 @@
-# The System Design Primer
+# The System Design
+Resources &amp; Techniques for system design creation
 
 <p align="center">
   <img src="http://i.imgur.com/jj3A5N8.png"/>
@@ -39,48 +40,7 @@ Additional topics for interview prep:
 * [Object-oriented design interview questions, **with solutions**](#object-oriented-design-interview-questions-with-solutions)
 * [Additional system design interview questions](#additional-system-design-interview-questions)
 
-## Anki flashcards
 
-<p align="center">
-  <img src="http://i.imgur.com/zdCAkB3.png"/>
-  <br/>
-</p>
-
-The provided [Anki flashcard decks](https://apps.ankiweb.net/) use spaced repetition to help you retain key system design concepts.
-
-* [System design deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design.apkg)
-* [System design exercises deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design%20Exercises.apkg)
-* [Object oriented design exercises deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/OO%20Design.apkg)
-
-Great for use while on-the-go.
-
-### Coding Resource: Interactive Coding Challenges
-
-Looking for resources to help you prep for the [**Coding Interview**](https://github.com/donnemartin/interactive-coding-challenges)?
-
-<p align="center">
-  <img src="http://i.imgur.com/b4YtAEN.png"/>
-  <br/>
-</p>
-
-Check out the sister repo [**Interactive Coding Challenges**](https://github.com/donnemartin/interactive-coding-challenges), which contains an additional Anki deck:
-
-* [Coding deck](https://github.com/donnemartin/interactive-coding-challenges/tree/master/anki_cards/Coding.apkg)
-
-## Contributing
-
-> Learn from the community.
-
-Feel free to submit pull requests to help:
-
-* Fix errors
-* Improve sections
-* Add new sections
-* [Translate](https://github.com/donnemartin/system-design-primer/issues/28)
-
-Content that needs some polishing is placed [under development](#under-development).
-
-Review the [Contributing Guidelines](CONTRIBUTING.md).
 
 ## Index of system design topics
 
@@ -1784,49 +1744,17 @@ Handy metrics based on numbers above:
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
 * [Zynga Engineering Blog](https://www.zynga.com/blogs/engineering)
 
-#### Source(s) and further reading
 
-Looking to add a blog?  To avoid duplicating work, consider adding your company blog to the following repo:
-
-* [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
 
 ## Under development
 
 Interested in adding a section or helping complete one in-progress?  [Contribute](#contributing)!
 
-* Distributed computing with MapReduce
-* Consistent hashing
-* Scatter gather
-* [Contribute](#contributing)
-
-## Credits
-
-Credits and sources are provided throughout this repo.
-
-Special thanks to:
-
-* [Hired in tech](http://www.hiredintech.com/system-design/the-system-design-process/)
-* [Cracking the coding interview](https://www.amazon.com/dp/0984782850/)
-* [High scalability](http://highscalability.com/)
-* [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
-* [shashank88/system_design](https://github.com/shashank88/system_design)
-* [mmcgrana/services-engineering](https://github.com/mmcgrana/services-engineering)
-* [System design cheat sheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
-* [A distributed systems reading list](http://dancres.github.io/Pages/)
-* [Cracking the system design interview](http://www.puncsky.com/blog/2016-02-13-crack-the-system-design-interview)
-
-## Contact info
-
-Feel free to contact me to discuss any issues, questions, or comments.
-
-My contact info can be found on my [GitHub page](https://github.com/donnemartin).
 
 ## License
 
-*I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (Facebook).*
+*This License is created by myself and not by any by company I'm working with.*
 
-    Copyright 2017 Donne Martin
-
-    Creative Commons Attribution 4.0 International License (CC BY 4.0)
-
-    http://creativecommons.org/licenses/by/4.0/
+    'Copyright 2020 Shashank Kesarwani'
+   
+ [License](http://creativecommons.org/licenses/by/4.0/)
